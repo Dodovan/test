@@ -1,0 +1,31 @@
+
+
+h1
+{
+    color: blue;
+}
+#conteneur p
+{
+    width: 200px;
+}
+#conteneur
+{
+    display: flex;
+
+}
+/*/#contenu_prin
+{
+    order: 2;
+}
+#asi
+{
+    order: 1;
+}
+
+@media all and (max-width:700px)
+{
+    h1
+    {
+        display: none;
+    }
+}
